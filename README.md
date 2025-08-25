@@ -87,7 +87,7 @@
   </a>
 </div>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <!-- Row 2: Remaining icons -->
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; padding-bottom: 20px;">
